@@ -1,0 +1,13 @@
+pkgbase = firmware-asus-s5507q
+	pkgdesc = Linux firmware for ASUS Vivobook S 15
+	pkgver = 20250917
+	pkgrel = 1
+	url = https://github.com/binarycraft007/firmware-asus-s5507q
+	arch = any
+	license = custom
+	makedepends = zig
+	options = !strip
+	source = https://github.com/binarycraft007/firmware-asus-s5507q/archive/ca730b66d48c75e87be53020cdfd14a947a72da3.tar.gz
+	sha256sums = 9b73b5ac095942dc442e04488f85d77b4b53ed8bd88e96afce9c8d56992d1b26
+
+pkgname = firmware-asus-s5507q
