@@ -1,7 +1,7 @@
 pkgname="firmware-asus-s5507q"
 pkgdesc="Linux firmware for ASUS Vivobook S 15"
 pkgver=20250917
-pkgrel=2
+pkgrel=3
 arch=("any")
 options=('!strip')
 url="https://github.com/binarycraft007/firmware-asus-s5507q"
