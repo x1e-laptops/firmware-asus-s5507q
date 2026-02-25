@@ -1,15 +1,15 @@
 pkgname="firmware-asus-s5507q"
 pkgdesc="Linux firmware for ASUS Vivobook S 15"
-pkgver=20250917
-pkgrel=4
+pkgver=20260225
+pkgrel=1
 arch=("any")
 options=('!strip')
 url="https://github.com/binarycraft007/firmware-asus-s5507q"
 license=('custom')
 makedepends=('zig')
-_commit=b6c0182c9f252e91276b038e21ff706389793f59
-source=("https://github.com/binarycraft007/firmware-asus-s5507q/archive/b6c0182c9f252e91276b038e21ff706389793f59.tar.gz")
-sha256sums=('e0f72d987a6b1e5252d791389231b39047a78c7926904ac6626e5f264460cf33')
+_commit=a0df2c4f828f1da3addf85902eb1a25a5a20d85d
+source=("https://github.com/binarycraft007/firmware-asus-s5507q/archive/a0df2c4f828f1da3addf85902eb1a25a5a20d85d.tar.gz")
+sha256sums=('7b40b69c18e291fb22abe2d476dc9d636eef34893f72db687be5cf410369630d')
 #depends=('linux-firmware' 'linux-firmware-qcom' 'linux-firmware-atheros')
 options=(!strip)
 
